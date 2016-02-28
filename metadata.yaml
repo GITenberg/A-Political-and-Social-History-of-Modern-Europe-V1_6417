@@ -1,0 +1,26 @@
+_repo: A-Political-and-Social-History-of-Modern-Europe-V1_6417
+creator:
+  author:
+    agent_name: Hayes, Carlton J. H. (Carlton Joseph Huntley)
+    aliases:
+    - Hayes, Carlton Joseph Huntley
+    - Hayes, C. J. H. (Carlton Joseph Huntley)
+    birthdate: 1882
+    deathdate: 1964
+    gutenberg_agent_id: '2032'
+    url: http://www.gutenberg.org/2009/agents/2032
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'D'
+- !lcsh 'Europe -- History'
+- !lcsh 'Europe -- Politics and government'
+title: A Political and Social History of Modern Europe V.1.
+url: http://www.gutenberg.org/ebooks/6417
