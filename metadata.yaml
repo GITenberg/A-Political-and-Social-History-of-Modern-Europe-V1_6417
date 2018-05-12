@@ -1,4 +1,8 @@
 _repo: A-Political-and-Social-History-of-Modern-Europe-V1_6417
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hayes, Carlton J. H. (Carlton Joseph Huntley)
@@ -10,6 +14,8 @@ creator:
     gutenberg_agent_id: '2032'
     url: http://www.gutenberg.org/2009/agents/2032
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6417#A-Political-and-Social-History-of-Modern-Europe-V1
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
